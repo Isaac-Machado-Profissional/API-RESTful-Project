@@ -1,0 +1,1 @@
+web: java -jar Avanade-Brasil/Avanade-Brasil/build/libs/Avanade-Brasil-0.0.1-SNAPSHOT.jar
